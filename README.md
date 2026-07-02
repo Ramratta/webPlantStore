@@ -46,7 +46,4 @@ npm run preview
 - `tailwind.config.js` - Tailwind CSS config
 - `vite.config.js` - Vite config
 
-## Notes
 
-- Replace placeholder text and images with your own content before submitting.
-- This project is ready for internship front-end test review after a final build and visual check.
